@@ -15,4 +15,6 @@ google colabolatory上で実行する。
 特徴量の作成を行っている。また、改善策であげた為替データの追加も行っている。
 LSTMに学習させるデータを作成している
 
-##
+### 実行方法
+google colabolatory上で実行する。
+実行する前に"content"フォルダに株価データ"stock_price.csv"をアップロードする必要がある。
