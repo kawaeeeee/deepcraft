@@ -20,3 +20,10 @@ google colabolatory上で実行する。
 実行する前に"content"フォルダに株価データ"stock_price.csv"をアップロードする必要がある。
 
 ## modeling.ipynb
+### 概要
+LSTMをもちいたモデルを構築し、精度を評価する。
+また、特徴量や訓練データを変更し、再トレーニングをする。
+
+### 実行方法
+google colabolatory上で実行する。
+実行する前に"content"フォルダに株価データ"stock_price.csv"をアップロードする必要がある。
